@@ -1,4 +1,4 @@
-# Primeiro-Reposit-rio
+# Primeiro Repositrio
 Primeiro code de python 
 # 👋 Olá! Seja bem-vindo(a) ao meu repositório
 
