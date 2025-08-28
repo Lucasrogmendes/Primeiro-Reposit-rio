@@ -45,7 +45,8 @@ Este repositório faz parte do meu processo de aprendizado. Aqui você vai encon
 
 Se quiser trocar uma ideia, me chama:
 
-- Email: [mendeslucasroger@gmail.com](mailto:mendeslucasroger@gmail.com)
+[📧 mande um email](mailto:mendeslucasroger@gmail.com)
+
 
 ---
 
