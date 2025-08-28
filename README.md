@@ -2,8 +2,7 @@
 Primeiro code de python 
 # 👋 Olá! Seja bem-vindo(a) ao meu repositório
 
-![Programando] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnI3dGUxNnNuM3R0N282a3R6bmc0dnR5ZjJ2NHRwZ29xd210cG5jOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12mykE9f4gnNOo/giphy.gif
-
+![Programando] https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGxxbWh4aWxvZjZpMTZraXRiNHhwbDN0c3cwMmVpZjZ6bXg0eHo3bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif
 ## 🧠 Sobre mim
 
 Olá! Meu nome é Lucas, sou estudante de **Python** e estou iniciando minha jornada no mundo da programação. Tenho interesse em aprender mais sobre:
